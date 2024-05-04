@@ -17,6 +17,10 @@ This plugin adds a dropdown on your product page to select your store for Amazon
 
 This plugin allows users to select their preferred Amazon store through a dropdown. When a user selects a store, they are redirected to the corresponding Amazon site. You will be able to select Amazon stores on a store by store basis on the edit product page. This is not an affiliate plugin, it uses clean, basic links that are are reliable and point directly to the product.
 
+== Prerequisites ==
+Wordpress
+WooCommerce
+
 == Installation ==
 1. Upload the plugin.
 >Go to your WordPress dashboard, 
@@ -43,3 +47,14 @@ Official stuff over.
 Hello, my name is Ceri and I'm an author and creator like you. I was looking for a plugin where I could add amazon book links automatically without relying on third party services which charge a bomb for redirection services or for just a dropdown list! I couldn't find one that didn't want to charge me a monthly fee, which I really can't afford. So, I made my own. If you want to see it in action, take a look at http://myrddinpublishing.com where I used it first, or my own website https://cericlark.com.
 
 This plugin is free for anyone that needs it to be because of financial constraints, but if you use it, find it useful and can afford to donate something, I've got a Ko-fi account to help pay for my coffee habit and feed my child and pay my bills. Probably don't have that in the right order. :)
+
+
+## Disclaimer:
+
+This WordPress plugin is provided "as is" and "with all faults." The developer makes no representations or warranties of any kind concerning the safety, suitability, lack of viruses, inaccuracies, typographical errors, or other harmful components of this plugin. There are inherent dangers in the use of any software, and you are solely responsible for determining whether this plugin is compatible with your equipment and other software installed on your equipment. You are also solely responsible for the protection of your equipment and backup of your data, and the developer will not be liable for any damages you may suffer in connection with using, modifying, or distributing this plugin.
+
+In no event shall the developer of this plugin be liable for any special, direct, indirect, consequential, or incidental damages or any damages whatsoever, whether in an action of contract, negligence or other tort, arising out of or in connection with the use of the plugin or the contents of the plugin. The developer reserves the right to make additions, deletions, or modifications to the contents of the plugin at any time without prior notice.
+
+By using this plugin, you agree to indemnify, defend, and hold harmless the developer from and against any and all claims, damages, costs, and expenses, including reasonable attorneys' fees, arising from or related to your use of the plugin.
+
+If you do not agree to these terms, do not install or use this plugin.
